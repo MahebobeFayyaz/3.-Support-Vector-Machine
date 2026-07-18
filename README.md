@@ -5,7 +5,7 @@
 This project implements a **Support Vector Machine (SVM)** model to classify breast tumors as **Benign** or **Malignant** using the Breast Cancer Wisconsin Diagnostic Dataset.
 
 The project demonstrates an end-to-end machine learning workflow, including data preprocessing, feature scaling, SVM kernel comparison, hyperparameter tuning, and model evaluation.
-Images/Linear_SVM.JPG
+
 ---
 
 ## Dataset
